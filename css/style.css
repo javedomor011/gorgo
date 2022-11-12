@@ -1,0 +1,39 @@
+/*common start*/
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Montserrat', sans-serif;;
+    font-size: 16px;
+}
+/*common end*/
+/*header start*/
+.wrapper{
+   width: 70%;
+   margin: 0 auto;
+   overflow: hidden;
+}
+.img{
+    float: left;
+}
+nav ul li{
+    display: inline;
+     
+}
+.menu ul li a{
+    text-decoration: none;
+    margin: 30px 10px;
+    float: left;
+    color: #292640;
+    font-weight: 600;
+    font-size: 14px;
+}
+button{
+    float: right;
+    padding: 12px;
+    margin-top: 18px;
+    border-radius: 3px;
+    border-bottom: #ff6162;
+}
+/*header end*/
